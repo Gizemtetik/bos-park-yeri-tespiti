@@ -1,2 +1,2 @@
 # bos-park-yeri-tespiti
-SVM modeli kullanarak park yerlerini tespit eden ve doluluk durumlarını belirleyen otomatik sistem.
+Bu proje, bilgisayarla görme teknikleri ve bir Destek Vektör Makinesi (SVM) modeli kullanarak park yerlerini tespit eden ve doluluk durumlarını belirleyen otomatik bir sistem geliştirmeyi amaçlamaktadır. Sistem, park alanı güvenlik kamerasından gelen video karelerini işleyerek maske görüntüsü kullanarak park yerlerini belirler ve her bir park yerinin dolu ya da boş olduğunu sınıflandırır. 
